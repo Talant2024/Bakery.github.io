@@ -133,6 +133,4 @@ h1{
 	height: 113px;}
 .footer a:hover{color: #91612F;}	
 
-@media screen and (min-width: 900px) {
-	.container{ flex-direction: column; }
-}
+
